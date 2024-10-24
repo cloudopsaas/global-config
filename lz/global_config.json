@@ -1,8 +1,8 @@
 {   
     "env_variables": {
-        "default_region": "eu-central-1",
-        "tf_state_s3_bucket": "gion-tf-state",
-        "tf_state_iam_role_arn": "arn:aws:iam::951100737550:role/cloudops-TerraformDeployerRole"
+        "TF_VAR_default_region": "eu-central-1",
+        "TF_VAR_tf_state_s3_bucket": "gion-tf-state",
+        "TF_VAR_tf_state_iam_role_arn": "arn:aws:iam::951100737550:role/cloudops-TerraformDeployerRole"
         
     },
     "deployer_role": "TerraformDeployerRole",
