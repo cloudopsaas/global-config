@@ -6,7 +6,8 @@
         "TF_VAR_main_github_oidc_role_arn": "arn:aws:iam::951100737550:role/GithubOIDC",
         "TF_VAR_dev_github_oidc_role_arn": "arn:aws:iam::951100737550:role/GithubOIDC",
         "TF_VAR_uat_github_oidc_role_arn": "arn:aws:iam::951100737550:role/GithubOIDC",
-        "TF_VAR_prod_github_oidc_role_arn": "arn:aws:iam::951100737550:role/GithubOIDC"
+        "TF_VAR_prod_github_oidc_role_arn": "arn:aws:iam::951100737550:role/GithubOIDC",
+        "TF_VAR_terraform_version": "arn:aws:iam::951100737550:role/GithubOIDC"
         
     },
     "deployer_role": "TerraformDeployerRole",
