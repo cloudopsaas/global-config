@@ -36,33 +36,33 @@
             "accounts": {
                 "app_backend": {
                     "id": "971422719884"
-                    },
+                },
                 "operations": {
                     "id": "971422719884"
-                    }
                 }
-            },
+            }
+        },
         "uat": {
             "ou_id": "ou-vknz-pmhloeuk",              
             "accounts": {
                 "app_backend": {
                     "id": "354918405951"
-                    },
+                },
                 "operations": {
                     "id": "354918405951"
-                    }
                 }
-            },
+            }
+        },
         "prod": {
             "ou_id": "ou-vknz-onp2fuq7",              
             "accounts": {
                 "app_backend": {
                     "id": "676206905072"
-                    },
+                },
                 "operations": {
                     "id": "676206905072"
-                    }
                 }
-            }   
+            }
+        }   
     }
 }
